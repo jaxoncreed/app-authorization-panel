@@ -43,7 +43,7 @@
     - Blogs continually asks Alice to grant it access to her interests and Alice is annoyed with the incessant asking
  - Alice accidentally uses https://evilContacts.example to manage her contacts
     - Evil Contacts wants to be able to write to Alice's contacts
-    - Evil contacts makes adds Dr. Sinister to Alice's contacts
+    - Evil contacts adds Dr. Sinister to Alice's contacts
     - Now Dr. Sinister can view anything contacts are allowed to view
  - Alice uses https://fakeSolidDocs.example to create and share documents
     - fakeSolidDocs uses Solid but not the philosophy of Solid
